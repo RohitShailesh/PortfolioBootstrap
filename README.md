@@ -1,4 +1,4 @@
-# SHAPEAI WEB DEV WITH BOOTSTRAP BOOTCAMP
+<!-- # SHAPEAI WEB DEV WITH BOOTSTRAP BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
@@ -23,4 +23,4 @@ href=
 "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
 be</a>
 <li><a href=
-"https://github.com/shapeai">GitHub</a>
+"https://github.com/shapeai">GitHub</a> -->
